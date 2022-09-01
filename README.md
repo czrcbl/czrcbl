@@ -1,21 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-I am and AI Developer pursuing a Master in Computing and Robotics.
-My main areas of interest are Computer Vision and Audio Processing.
+I am a Machine Learning Engineer / Data Scientist working with radiograpgic image processing in the dental area.
 
-### Projects
+## Open Projects
 
 ---
 
 **2019** - **Master in Computing and Robotics**  
-    Object detection trained from synthetic images  
-    Repos: [traindet](https://github.com/czrcbl/train_detection) / [bboxes](https://github.com/czrcbl/bboxes) / [detection](https://github.com/czrcbl/detection) / [blender_rendering](https://github.com/czrcbl/blender_rendering)
+Object detection trained from synthetic images  
+
+Repos: [traindet](https://github.com/czrcbl/train_detection) / [bboxes](https://github.com/czrcbl/bboxes) / [detection](https://github.com/czrcbl/detection) / [blender_rendering](https://github.com/czrcbl/blender_rendering)
 
 ---
 
 **2017** - **Electrical Engineering Degree**  
-    Capstone Project: Hinf Control Applied to a Omnidirectional Robot  
-    Repos: [HinfControl](https://github.com/czrcbl/hinfinity_project-omnidirectional_robot)
+
+Data App: [Hinfity Control Applied to an Omnidirectional Robot](http://hinf_omnidirectional_robot.czrcbl.org)
+
+Capstone Project: Hinf Control Applied to a Omnidirectional Robot
+
+Repos: [HinfControl](https://github.com/czrcbl/hinfinity_project-omnidirectional_robot)
 
 <!--
 **czrcbl/czrcbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
