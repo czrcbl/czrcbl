@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Machine Learning Engineer / Data Scientist working with radiograpgic image processing in the dental area.
+I am a Machine Learning Engineer / Data Scientist working with radiographic image processing in the dental area.
 
 ## Open Projects
 
